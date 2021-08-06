@@ -1,20 +1,20 @@
 # Welcome to my profile!
-My name's Eduardo. I'm a web development student from near Rome and I'm currently attending the Boolean Careers course. I'm studying HTML, CSS, JS, PHP and MySQL. I have also used Bootstrap and Vue.js and I'll study Laravel in the near future. I'm constantly thinking about cool and original ideas for new web applications.
+My name's Eduardo. I'm a junior Full Stack Web Developer near Rome and I'm currently attending the Boolean Careers course. I've studied and applied a wide range of web techonologies like HTML, CSS, JavaScript, PHP, MySQL, Vue.js, Laravel, Bootstrap and others. I'm committed on relentless self-improvement and I'm constantly thinking about cool and original ideas for new web applications.
 
 ## You can also find me on...
-<a href="https://twitter.com/eduardo_mecchia" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"> 
-</a>
-
 <a href="https://www.linkedin.com/in/eduardomecchia/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> 
+</a>
+
+<a href="https://twitter.com/eduardo_mecchia" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"> 
 </a>
 
 <a href="https://www.instagram.com/eduardomecchia" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> 
 </a>
 
-## Currently studying...
+## Skills
 
 <a href="https://html.spec.whatwg.org/" target="_blank">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
