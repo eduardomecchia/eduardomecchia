@@ -1,5 +1,5 @@
 # Welcome to my profile!
-My name's Eduardo. I'm a junior Full Stack Web Developer near Rome and I'm currently attending the Boolean Careers course. I've studied and applied a wide range of web techonologies like HTML, CSS, JavaScript, PHP, MySQL, Vue.js, Laravel, Bootstrap and others. I'm committed on relentless self-improvement and I'm constantly thinking about cool and original ideas for new web applications.
+My name's Eduardo. I'm a junior Full Stack Web Developer near Rome and I'm currently attending the Boolean Careers course. I've studied and applied a wide range of web technologies like HTML, CSS, JavaScript, PHP, MySQL, Vue.js, Laravel, Bootstrap and others. I'm committed on relentless self-improvement and I'm constantly thinking about cool and original ideas for new web applications.
 
 ## You can also find me on...
 <a href="https://www.linkedin.com/in/eduardomecchia/" target="_blank">
