@@ -10,10 +10,6 @@ My name's Eduardo. I'm a junior Full Stack Web Developer near Rome and I'm curre
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"> 
 </a>
 
-<a href="https://www.instagram.com/eduardomecchia" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> 
-</a>
-
 ## Skills
 
 <a href="https://html.spec.whatwg.org/" target="_blank">
