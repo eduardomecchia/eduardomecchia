@@ -1,5 +1,7 @@
 # Welcome to my profile!
-My name's Eduardo. I'm a junior Full Stack Web Developer near Rome and I'm currently attending the Boolean Careers course. I've studied and applied a wide range of web technologies like HTML, CSS, JavaScript, PHP, MySQL, Vue.js, Laravel, Bootstrap and others. I'm very committed to relentless self-improvement and I'm constantly thinking about original ideas for innovative and user-friendly web applications.
+My name's Eduardo. I'm a junior Full Stack Web Developer near Rome and my love for computers and, more specifically, programming has brought me to attend the Boolean Careers course, which I've recently completed.\
+I've studied and applied a wide range of web technologies like HTML, CSS, JavaScript, PHP, MySQL, Vue.js, Laravel, Bootstrap and others.\
+I'm very committed to relentless self-improvement and I'm constantly thinking about original ideas for innovative and user-friendly web applications.
 
 ## You can also find me on...
 <a href="https://www.linkedin.com/in/eduardomecchia/" target="_blank">
@@ -32,7 +34,7 @@ My name's Eduardo. I'm a junior Full Stack Web Developer near Rome and I'm curre
 </a>
 
 <a href="https://vuejs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue-dot-js&logoColor=4FC08D">
+    <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
 </a>
 
 <a href="https://www.php.net/" target="_blank">
@@ -43,6 +45,30 @@ My name's Eduardo. I'm a junior Full Stack Web Developer near Rome and I'm curre
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
 </a>
 
+<a href="https://nodejs.org/en/" target="_blank">
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+</a>
+
+<a href="https://www.electronjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white">
+</a>
+
 <a href="https://www.mysql.com/" target="_blank">
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+</a>
+
+<a href="https://www.npmjs.com/" target="_blank">
+    <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">
+</a>
+
+<a href="https://www.atlassian.com/software/jira" target="_blank">
+    <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
+</a>
+
+<a href="https://www.postman.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 </a>
