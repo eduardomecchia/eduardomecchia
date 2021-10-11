@@ -37,6 +37,10 @@ I'm very committed to relentless self-improvement and I'm constantly thinking ab
     <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
 </a>
 
+<a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+</a>
+
 <a href="https://www.php.net/" target="_blank">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </a>
