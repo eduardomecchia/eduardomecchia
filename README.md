@@ -1,5 +1,5 @@
 # Welcome to my profile!
-My name's Eduardo. I'm a junior Full Stack Web Developer near Rome and my love for computers and, more specifically, programming has brought me to attend the Boolean Careers course, which I've recently completed.\
+My name's Eduardo. I'm a Full Stack Web Developer near Rome and my love for computers and, more specifically, programming has brought me to attend the Boolean Careers course.\
 I've studied and applied a wide range of web technologies like HTML, CSS, JavaScript, PHP, MySQL, Vue.js, Laravel, Bootstrap and others.\
 I'm very committed to relentless self-improvement and I'm constantly thinking about original ideas for innovative and user-friendly web applications.\
 I'm currently working as a front-end developer for Accenture Interactive.
