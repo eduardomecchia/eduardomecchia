@@ -77,3 +77,6 @@ I'm currently working as a software developer for ALTEN Italia.
 <a href="https://www.postman.com/" target="_blank">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 </a>
+
+## Daily.dev Card
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/eduardomecchia/eduardomecchia/blob/main/devcard.svg" width="400" alt="Eduardo Mecchia's Dev Card"/></a>
