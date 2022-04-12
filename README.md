@@ -79,4 +79,4 @@ I'm currently working as a software developer for ALTEN Italia.
 </a>
 
 ## Daily.dev Card
-<a href="https://app.daily.dev/eduardomecchia"><img src="https://github.com/eduardomecchia/eduardomecchia/blob/main/devcard.svg" width="400" alt="Eduardo Mecchia's Dev Card"/></a>
+<a href="https://app.daily.dev/eduardomecchia"><img src="https://github.com/eduardomecchia/eduardomecchia/blob/main/devcard.svg" width="300" alt="Eduardo Mecchia's Dev Card"/></a>
