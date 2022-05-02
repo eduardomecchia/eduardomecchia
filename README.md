@@ -13,6 +13,10 @@ I'm currently working as a software developer for ALTEN Italia.
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"> 
 </a>
 
+<a href="https://www.last.fm/user/eduardomecchia" target="_blank">
+    <img src="https://img.shields.io/badge/Last.fm-D51007?style=for-the-badge&logo=lastdotfm&logoColor=white" target="_blank"> 
+</a>
+
 ## Skills
 <a href="https://html.spec.whatwg.org/" target="_blank">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
