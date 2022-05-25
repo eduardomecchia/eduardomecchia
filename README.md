@@ -86,4 +86,4 @@ I'm currently working as a software developer for ALTEN Italia.
 <a href="https://app.daily.dev/eduardomecchia"><img src="https://github.com/eduardomecchia/eduardomecchia/blob/main/devcard.svg" width="300" alt="Eduardo Mecchia's Dev Card"/></a>
 
 ## GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=eduardomecchia)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=eduardomecchia&theme=matrix&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
