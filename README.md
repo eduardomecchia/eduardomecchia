@@ -42,6 +42,22 @@ I'm currently working as a software developer for ALTEN Italia, on an Angular pr
     <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
 </a>
 
+<a href="https://nuxtjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82">
+</a>
+
+<a href="https://angular.io/" target="_blank">
+    <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
+</a>
+
+<a href="https://rxjs.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white">
+</a>
+
+<a href="https://jquery.com/" target="_blank">
+    <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">
+</a>
+
 <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </a>
