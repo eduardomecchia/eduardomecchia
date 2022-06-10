@@ -82,6 +82,15 @@ I'm currently working as a software developer for ALTEN Italia, on an Angular pr
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 </a>
 
+<a href="https://www.figma.com/" target="_blank">
+    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+</a>
+
+<a href="https://storybook.js.org/" target="_blank">
+    <img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white">
+</a>
+
+
 ## Daily.dev Card
 <a href="https://app.daily.dev/eduardomecchia"><img src="https://github.com/eduardomecchia/eduardomecchia/blob/main/devcard.svg" width="300" alt="Eduardo Mecchia's Dev Card"/></a>
 
