@@ -46,6 +46,10 @@ I'm currently working as a software developer for ALTEN Italia, on a design syst
     <img src="https://img.shields.io/badge/lit-324fff.svg?style=for-the-badge&logo=lit&logoColor=white">
 </a>
 
+<a href="https://nx.dev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Nx&color=143055&logo=Nx&logoColor=FFFFFF&label=">
+</a>
+
 <a href="https://vuejs.org/" target="_blank">
     <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
 </a>
