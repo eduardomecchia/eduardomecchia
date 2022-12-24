@@ -42,6 +42,10 @@ I'm currently working as a software developer for ALTEN Italia, on a design syst
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
 </a>
 
+<a href="https://www.lit.dev" target="_blank">
+    <img src="https://img.shields.io/badge/lit-324fff.svg?style=for-the-badge&logo=lit&logoColor=white">
+</a>
+
 <a href="https://vuejs.org/" target="_blank">
     <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
 </a>
