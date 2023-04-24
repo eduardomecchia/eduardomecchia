@@ -1,8 +1,8 @@
 # Welcome to my profile!
-My name's Eduardo. I'm a Full Stack Web Developer near Rome and my love for computers and, more specifically, programming has brought me to attend the Boolean Careers bootcamp.\
+My name's Eduardo. I'm a software developer from Rome. My love for computers and, more specifically, programming has brought me to attend the Boolean Careers bootcamp.\
 I've studied and applied a wide range of web technologies like HTML, CSS, JavaScript, PHP, MySQL, Vue.js, Laravel, Bootstrap and others.\
 I'm very committed to relentless self-improvement and I'm constantly thinking about original ideas for innovative and user-friendly web applications.\
-I'm currently working as a software developer for ALTEN Italia, on a design system of ~50 Web Components built with Lit and TypeScript and on an NX application that uses the Micro Frontend architecture.
+I'm currently working as a software developer for ALTEN Italia, on a design system of ~120 Web Components built with Lit and TypeScript and on an Nx application that uses the microfrontend architecture pattern.
 
 ## You can also find me on...
 <a href="https://www.linkedin.com/in/eduardomecchia/" target="_blank">
